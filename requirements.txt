@@ -1,0 +1,5 @@
+# Runtime dependencies for fitbit_pull.py
+# Install:  python3 -m pip install -r requirements.txt
+requests>=2.31
+google-auth>=2.25
+google-auth-oauthlib>=1.2

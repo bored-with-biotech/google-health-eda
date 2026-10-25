@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node --check *)",
+      "Bash(launchctl print *)",
+      "Bash(python3 -m py_compile *)",
+      "Bash(sqlite3 -readonly *)",
+      "Bash(log show *)",
+      "Bash(defaults read *)"
+    ]
+  }
+}

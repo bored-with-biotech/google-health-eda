@@ -1,0 +1,11 @@
+# OAuth client + tokens (never commit)
+.secrets/
+
+# Pulled data (regenerate with: python3 fitbit_pull.py pull ...)
+raw/
+csv/
+
+# Python / macOS noise
+__pycache__/
+*.pyc
+.DS_Store
